@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sh0nti23!  
 - 👀 I’m interested in Web3  
-- 🌱 I’m currently learning rust.      
+- 🌱 I’m currently learning rust. 
 
 <!---
 sh0nti23/sh0nti23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
