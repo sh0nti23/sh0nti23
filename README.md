@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sh0nti23!  
+- 👋 Hi, I’m @sh0nti23!   
 - 👀 I’m interested in Web3   
 - 🌱 I’m currently learning rust. 
 
